@@ -1,4 +1,4 @@
-# Hi there, I'm Andre Cavalcanti 👋
+Hi there, I'm Andre Cavalcanti
   
 I'm a **Junior Full Stack Developer** who’s passionate about building applications, exploring new technologies, and growing every day.
 
